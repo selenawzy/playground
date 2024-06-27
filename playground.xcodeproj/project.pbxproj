@@ -42,6 +42,7 @@
 		396E5E2B2C2D0EBD00D222FF = {
 			isa = PBXGroup;
 			children = (
+				396E5E3E2C2D1A9200D222FF /* README.md */,
 				396E5E362C2D0EBD00D222FF /* playground */,
 				396E5E352C2D0EBD00D222FF /* Products */,
 			);
@@ -59,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				396E5E372C2D0EBD00D222FF /* main.cpp */,
-				396E5E3E2C2D1A9200D222FF /* README.md */,
 			);
 			path = playground;
 			sourceTree = "<group>";
