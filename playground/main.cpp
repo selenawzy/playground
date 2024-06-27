@@ -14,6 +14,9 @@ class Vector {
     T* data;
     size_t size;
     size_t capacity;
+    void resize() {
+        
+    }
 public:
     void insert() {
         
