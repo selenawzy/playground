@@ -12,7 +12,8 @@ using namespace std;
 template <typename T>
 class Vector {
     T* data;
-    
+    size_t size;
+    size_t capacity;
 public:
     void insert() {
         
