@@ -9,6 +9,16 @@
 #include <vector>
 using namespace std;
 
+template <typename T>
+class Vector {
+    T* data;
+    
+public:
+    void insert() {
+        
+    }
+};
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     cout << "Hello, World!\n";
